@@ -15,4 +15,4 @@ Most of these examples are from other repos, and I'd like to get them credit her
 - Example 05 - Show AIS ships - From [ais-dotnet/Ais.Net.Notebooks](https://github.com/ais-dotnet/Ais.Net.Notebooks)
 - Example 06 - NFL Draft Analysis - This was made by me, but I did get inspiration from "Data Processing with DataFrame" from [dotnet/csharp-notebooks](https://github.com/dotnet/csharp-notebooks/blob/main/machine-learning/REF-Data%20Processing%20with%20DataFrame.ipynb)
 - Example 07 - Mermaid - From [dotnet/interactive](https://github.com/dotnet/interactive/blob/main/samples/notebooks/mermaid/mermaid.ipynb)
-- Example 08 - USL1 Soccer Analysis - This data comes from [americansocceranalysis.com/](https://www.americansocceranalysis.com/), with the analysis being done in [SandDance](https://microsoft.github.io/SandDance/)
+- Example 08 - USL1 Soccer Analysis - This data comes from [americansocceranalysis.com/](https://www.americansocceranalysis.com), with the analysis being done in [SandDance](https://microsoft.github.io/SandDance/)
