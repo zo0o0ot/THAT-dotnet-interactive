@@ -1,9 +1,10 @@
 # THAT-dotnet-interactive
 .NET Interactive examples for THAT Conference 2022 in Wisconsin
 
-
+You can open this repo in Binder and run most of these examples yourself from a web browser!
 [![open in binder](https://user-images.githubusercontent.com/876146/180632722-d9bd878f-c807-4f5d-bc4e-4208cc70676b.png)](https://mybinder.org/v2/gh/zo0o0ot/THAT-dotnet-interactive/main?urlpath=lab)
 
+I learned about sharing in Binder [here](https://github.com/dotnet/interactive/blob/main/docs/NotebooksOnBinder.md) inside the docs folder of the dotnet/interacive project on GitHub.
 
 Most of these examples are from other repos, and I'd like to get them credit here:
 
